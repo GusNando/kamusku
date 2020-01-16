@@ -1,0 +1,2 @@
+# kamusku
+ aplikasi kamus sederhana
